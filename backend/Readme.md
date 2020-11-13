@@ -2,11 +2,16 @@
 
 <!--EXEMPLO:-->
 - [Node JS](https://nodejs.org/en)
+- [typescript](https://nodejs.org/en)
 - [Cors](https://www.npmjs.com/package/cors)
 - [express](https://www.npmjs.com/package/express)
-- [mongoDB](https://www.mongodb.com/try/download/compass)
-- [Mongoose](https://www.npmjs.com/package/mongoose)
-- [Nodemon](https://www.npmjs.com/package/nodemon)
+- [express-async-errors](https://www.mongodb.com/try/download/compass)
+- [multer](https://www.npmjs.com/package/mongoose)
+- [sqlite3](https://www.npmjs.com/package/nodemon)
+- [typeorm](https://www.npmjs.com/package/nodemon)
+- [yup](https://www.npmjs.com/package/nodemon)
+
+
 
 ## 💻 Como usar
 
