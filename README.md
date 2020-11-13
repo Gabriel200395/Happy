@@ -60,7 +60,7 @@ Irá abrir uma página no browser (se não abrir, vá até [http://localhost:808
 
 <h3 align="center">Tela de Visualizar Cada Orfanato</h3>
 <h4 align="center">
-  <img src="./web/public/Images/detalheIn.gif" /><br>
+  <img src="./web/public/Images/dms.gif" /><br>
 </h4>
 
 ## :pencil: Autor
