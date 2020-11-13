@@ -23,8 +23,8 @@
 - [React-Icons](https://react-icons.github.io/react-icons/)
 
 ## :page_facing_up: Sobre
-Esse projeto Happy, foi desenvolvido para cadastro de visitar em orfanatos, com isso o cadastro feito podera ser
-visto o local e rota que usuário vai ter que fazer para chegar no orfanato e todos os detalhes sobre orfanato.
+Esse projeto Happy, foi desenvolvido para cadastro de orfanatos. Feito o Cadastro poderá ser
+visto o local e rota e todos os detalhes sobre orfanato.
 ## 💻 Como usar
 
 - Clone o projeto: `git clone https://github.com/Gabriel200395/Happy.git`
