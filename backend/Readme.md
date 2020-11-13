@@ -2,14 +2,14 @@
 
 <!--EXEMPLO:-->
 - [Node JS](https://nodejs.org/en)
-- [typescript](https://nodejs.org/en)
+- [TypeScript](https://www.npmjs.com/package/typescript)
 - [Cors](https://www.npmjs.com/package/cors)
-- [express](https://www.npmjs.com/package/express)
-- [express-async-errors](https://www.mongodb.com/try/download/compass)
-- [multer](https://www.npmjs.com/package/mongoose)
-- [sqlite3](https://www.npmjs.com/package/nodemon)
-- [typeorm](https://www.npmjs.com/package/nodemon)
-- [yup](https://www.npmjs.com/package/nodemon)
+- [Express](https://www.npmjs.com/package/express)
+- [Express-async-errors](https://www.npmjs.com/package/express-async-errors)
+- [Multer](https://www.npmjs.com/package/multer)
+- [Sqlite3](https://www.npmjs.com/package/sqlite3)
+- [Typeorm](https://www.npmjs.com/package/typeorm)
+- [yup](https://formik.org/docs/guides/validation)
 
 
 
@@ -19,6 +19,11 @@
 - Entrar na pasta do projeto: `cd backend`;
 - Instalar as dependências: `npm install`;
 - Iniciar a aplicação: `npm start`.
+- para criar a migration: `npm run typeorm migration:create -- -n create_images`
+- para revert a migration: `npm run typeorm migration:revert`
+- para criar a tabela no banco : `npm run typeorm migration:run`
+
+
 
 ## :pencil: Autor
 
