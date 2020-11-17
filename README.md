@@ -1,4 +1,4 @@
-<h1 align="center">NLW Rockeseat - Front-End :heart_eyes:</h1>  
+<h1 align="center">. Happy - NLW :heart_eyes:</h1>  
 
 <h4 align="center">
   <img src="./web/public/Images/demos.gif"/><br>
@@ -23,8 +23,7 @@
 - [React-Icons](https://react-icons.github.io/react-icons/)
 
 ## :page_facing_up: Sobre
-Esse projeto Happy, foi desenvolvido para cadastro de orfanatos. Feito o Cadastro poderá ser
-visto o local e rota e todos os detalhes sobre orfanato.
+Projeto que desenvolvi com o objetivo de ajudar orfãos a encontrar a sua felicidade. Neste projeto, é possível cadastrar, listar, editar e deletar orfanatos. Cada orfanato pode conter informçãoes de localização, horários de atendimentos apropriados e outras informações importantes para a visitação de famílias interessadas em adotar crianças. Com esse projeto pude aprimorar minhas habilidades tanto de Backend como de Frontend, utilizando, por exemplo, Geolocalização com mapas no Frontend e Validação de dados no Backend. Caso queira saber mais sobre o projeto, clique no botão abaixo.
 ## 💻 Como usar
 
 - Clone o projeto: `git clone https://github.com/Gabriel200395/Happy.git`
