@@ -1,4 +1,4 @@
-<h1 align="center">. Happy - NLW :heart_eyes:</h1>  
+<h1 align="center">Happy - NLW :heart_eyes:</h1>  
 
 <h4 align="center">
   <img src="./web/public/Images/demos.gif"/><br>
